@@ -8,6 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using SimpleWebApp.Data;
+using SimpleWebApp.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -32,15 +33,14 @@ namespace SimpleWebApp
                     Configuration.GetConnectionString("DefaultConnection")));
             services.AddDatabaseDeveloperPageExceptionFilter();
 
-            services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+            services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
 
             services.Configure<IdentityOptions>(options =>
             {
-                options.Lockout.AllowedForNewUsers = true;
-                options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromDays(40 * 365);
-                options.Lockout.MaxFailedAccessAttempts = 3;
+                options.Password.RequiredLength = 8;
+                options.Lockout.MaxFailedAccessAttempts = 4;
             });
         }
 

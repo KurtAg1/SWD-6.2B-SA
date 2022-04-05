@@ -1,0 +1,14 @@
+C:\Users\kurta\source\repos\SWD-6.2B-SA\CryptographyNotes\CryptographyNotes\bin\Debug\netcoreapp3.1\CryptographyNotes.exe
+C:\Users\kurta\source\repos\SWD-6.2B-SA\CryptographyNotes\CryptographyNotes\bin\Debug\netcoreapp3.1\CryptographyNotes.deps.json
+C:\Users\kurta\source\repos\SWD-6.2B-SA\CryptographyNotes\CryptographyNotes\bin\Debug\netcoreapp3.1\CryptographyNotes.runtimeconfig.json
+C:\Users\kurta\source\repos\SWD-6.2B-SA\CryptographyNotes\CryptographyNotes\bin\Debug\netcoreapp3.1\CryptographyNotes.runtimeconfig.dev.json
+C:\Users\kurta\source\repos\SWD-6.2B-SA\CryptographyNotes\CryptographyNotes\bin\Debug\netcoreapp3.1\CryptographyNotes.dll
+C:\Users\kurta\source\repos\SWD-6.2B-SA\CryptographyNotes\CryptographyNotes\bin\Debug\netcoreapp3.1\CryptographyNotes.pdb
+C:\Users\kurta\source\repos\SWD-6.2B-SA\CryptographyNotes\CryptographyNotes\obj\Debug\netcoreapp3.1\CryptographyNotes.csproj.AssemblyReference.cache
+C:\Users\kurta\source\repos\SWD-6.2B-SA\CryptographyNotes\CryptographyNotes\obj\Debug\netcoreapp3.1\CryptographyNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurta\source\repos\SWD-6.2B-SA\CryptographyNotes\CryptographyNotes\obj\Debug\netcoreapp3.1\CryptographyNotes.AssemblyInfoInputs.cache
+C:\Users\kurta\source\repos\SWD-6.2B-SA\CryptographyNotes\CryptographyNotes\obj\Debug\netcoreapp3.1\CryptographyNotes.AssemblyInfo.cs
+C:\Users\kurta\source\repos\SWD-6.2B-SA\CryptographyNotes\CryptographyNotes\obj\Debug\netcoreapp3.1\CryptographyNotes.csproj.CoreCompileInputs.cache
+C:\Users\kurta\source\repos\SWD-6.2B-SA\CryptographyNotes\CryptographyNotes\obj\Debug\netcoreapp3.1\CryptographyNotes.dll
+C:\Users\kurta\source\repos\SWD-6.2B-SA\CryptographyNotes\CryptographyNotes\obj\Debug\netcoreapp3.1\CryptographyNotes.pdb
+C:\Users\kurta\source\repos\SWD-6.2B-SA\CryptographyNotes\CryptographyNotes\obj\Debug\netcoreapp3.1\CryptographyNotes.genruntimeconfig.cache
